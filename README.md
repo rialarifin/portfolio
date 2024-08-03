@@ -4,8 +4,10 @@ As a researcher, I focus on fields such as computer vision, machine learning, de
 ## Educations
 • PhD, Kookmin University, South Korea (2021 - 2024)
 " Solar Radiation Prediction Based on the Images of Satellite and Sky Camera for the Energy Management of Electric Vehicles "
+
 • MSc, Kookmin University, South Korea (2019 - 2021)
 " Solar Irradiance Forecasting using Sky Images "
+
 • BSc, Institut Teknologi Bandung, Indonesia (2012 - 2017)
 " Parametric Study of Cooling Film and Implementation on One Axial Turbine Blade Stage "
 
