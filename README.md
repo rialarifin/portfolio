@@ -42,5 +42,7 @@ https://www.ksesjournal.co.kr/articles/xml/qVn9/
 
 ### International Conferences
 •	The American Society of Mechanical Engineers Energy Sustainability (ASME ES 2023). “Minute-level solar irradiance estimation via sun-blocking index derived from sky images”. The Madison Hotel, Washington, DC, July 10 – 12, 2023.
+
 •	The 11th Asia-Pasific Forum in Renewable Energy (AFORE 2022). “Estimation of minute level of solar irradiance using sun-blocking index (SBI) derived from sky images”. Ramada Plaza Jeju, South Korea, September 27 – October 1, 2022.
+
 •	Second Asian Conference on Thermal Sciences (2nd ACTS). “Evaluation of decomposition models to estimate direct normal irradiance using sub-hour data”. Japan, October 3 – 7, 2021.
