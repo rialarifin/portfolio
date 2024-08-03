@@ -25,7 +25,7 @@ As a researcher, I focus on fields such as computer vision, machine learning, de
 •	“A review on deep learning models for forecasting time series data of solar irradiance and photovoltaic power”. Energies 13 (24), 6623. 2020. 
 https://www.mdpi.com/1996-1073/13/24/6623
 
-•	“A deep learning model to forecast solar irradiance using a sky camera”. Applied Sciences 11 (11), 5049. 2021. 
+•	“A deep learning model to forecast solar irradiance using a sky camera”. Applied Sciences 11 (11), 5049. 2021.
 https://www.mdpi.com/2076-3417/11/11/5049
 
 •	“Sun blocking index (SBI) from sky image to estimate solar irradiance for smart window control”. Building and Environment. 2022.
